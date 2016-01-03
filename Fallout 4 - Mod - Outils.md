@@ -60,13 +60,13 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/5108/?" target="_blank">k
 
 -----------
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Time on loading screen and Pipboy time by Neanka</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Time on loading screen by Neanka</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/2605/?" target="_blank">Time on loading screen</a>
 
 -----------
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Configurable Power Armor Fusion Core by RAWberry400</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Configurable Power Armor by RAWberry400</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/235/?" target="_blank">Configurable Power Armor Fusion Core Drain</a>
 
