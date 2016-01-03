@@ -6,54 +6,6 @@ Tous les mods utiliser son listé ci-dessous
 
 ------------------------------------------------------------------------------------------------------------ 
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Black Titanium Power Armor by TerminalGear</h1>
-
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/4233/?" target="_blank">Black Titanium Power Armor</a>
-
------------
-
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Black Titanium Power Armor by TerminalGear</h1>
-
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/4233/?" target="_blank">Black Titanium Power Armor</a>
-
------------
-
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Black Titanium Power Armor by TerminalGear</h1>
-
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/4233/?" target="_blank">Black Titanium Power Armor</a>
-
------------
-
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Black Titanium Power Armor by TerminalGear</h1>
-
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/4233/?" target="_blank">Black Titanium Power Armor</a>
-
------------
-
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Black Titanium Power Armor by TerminalGear</h1>
-
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/4233/?" target="_blank">Black Titanium Power Armor</a>
-
------------
-
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Black Titanium Power Armor by TerminalGear</h1>
-
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/4233/?" target="_blank">Black Titanium Power Armor</a>
-
------------
-
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Black Titanium Power Armor by TerminalGear</h1>
-
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/4233/?" target="_blank">Black Titanium Power Armor</a>
-
------------
-
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Black Titanium Power Armor by TerminalGear</h1>
-
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/4233/?" target="_blank">Black Titanium Power Armor</a>
-
------------
-
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>No more cash register sound when XP gain by LiquidBronze</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/100/?" target="_blank">No more cash register sound when XP gain</a>
