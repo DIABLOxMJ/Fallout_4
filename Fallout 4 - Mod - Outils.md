@@ -6,7 +6,7 @@ Tous les mods utiliser son listé ci-dessous
 
 ------------------------------------------------------------------------------------------------------------ 
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>No more cash register sound when XP gain by LiquidBronze</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>No more cash register sound by LiquidBronze</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/100/?" target="_blank">No more cash register sound when XP gain</a>
 
@@ -66,7 +66,7 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/2605/?" target="_blank">T
 
 -----------
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Configurable Power Armor Fusion Core Drain by RAWberry400</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Configurable Power Armor Fusion Core by RAWberry400</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/235/?" target="_blank">Configurable Power Armor Fusion Core Drain</a>
 
