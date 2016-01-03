@@ -18,13 +18,13 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/6053/?" target="_blank">C
 
 -----------
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Craftable Interior Shack Doorway Wall by DDProductions83 </h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Craftable Shack Doorway Wall by DDProductions83</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/6637/?" target="_blank">Craftable Interior Shack Doorway Wall</a>
 
 -----------
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Stackable Concrete Foundations by DDProductions83</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Stackable Foundations by DDProductions83</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/6362/?" target="_blank">Stackable Concrete Foundations</a>
 
