@@ -6,7 +6,7 @@ Tous les mods utiliser son listé ci-dessous
 
 ------------------------------------------------------------------------------------------------------------ 
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Black and Red Vaultsuit FULL Male and Female by ChemicalBR0</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Black and Red Vaultsuit by ChemicalBR0</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/3522/?" target="_blank">Black and Red Vaultsuit</a>
 
