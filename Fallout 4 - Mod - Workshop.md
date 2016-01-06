@@ -30,6 +30,24 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/6362/?" target="_blank">S
 
 -----------
 
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Craftable Glass Stuffs by DDProductions83</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/7790/?" target="_blank">Craftable Glass Stuffs</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Craftable Floor Supports by DDProductions83</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/7784/?" target="_blank">Craftable Floor Supports</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>1x1 Craftable Foundation Pieces by DDProductions83</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/7780/?" target="_blank">1x1 Craftable Foundation Pieces</a>
+
+-----------
+
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Build High - Expanded Settlements by Sychon</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/3528/?" target="_blank">Build High - Expanded Settlements</a>
