@@ -42,7 +42,7 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/7784/?" target="_blank">C
 
 -----------
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>1x1 Craftable Foundation Pieces by DDProductions83</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Craftable Foundation Pieces by DDProductions83</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/7780/?" target="_blank">1x1 Craftable Foundation Pieces</a>
 
