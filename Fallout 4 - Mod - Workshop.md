@@ -48,6 +48,12 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/7780/?" target="_blank">1
 
 -----------
 
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Craftable Solar Panels by DDProductions83</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8172/?" target="_blank">Craftable Solar Panels</a>
+
+-----------
+
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Build High - Expanded Settlements by Sychon</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/3528/?" target="_blank">Build High - Expanded Settlements</a>
