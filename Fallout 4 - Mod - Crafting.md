@@ -27,3 +27,9 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/2451/?" target="_blank">C
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Fusion Core Crafting by Xylozi</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/2288/?" target="_blank">Fusion Core Crafting</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Shipments of The Commonwealth (SOTC) by Lanius</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8604/?" target="_blank">Shipments of The Commonwealth (SOTC)</a>
