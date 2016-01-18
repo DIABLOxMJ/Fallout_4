@@ -130,3 +130,9 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/7399/?" target="_blank">T
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Working Food Planters by Dominik Rungelrath</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/1490/?" target="_blank">Working Food Planters</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Repairable Sanctuary by Kentington</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8610/?" target="_blank">Repairable Sanctuary</a>
