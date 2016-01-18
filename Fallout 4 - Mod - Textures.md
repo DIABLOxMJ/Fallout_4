@@ -57,3 +57,15 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/419/?" target="_blank">Bl
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Black metallic sniper rifle by jofloch</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/7810/?" target="_blank">Black metallic sniper rifle</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Black for Double-Barrel Shotgun by Junnari</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8622/?" target="_blank">Polymer Stock for Double-Barrel Shotgun</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>All Weapons HD (A.W.H.D.) by bLaCkShAd0w</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8556/?" target="_blank">All Weapons HD (A.W.H.D.)</a>
