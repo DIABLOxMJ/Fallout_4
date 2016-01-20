@@ -93,3 +93,9 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/7722/?" target="_blank">R
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Simple Intersection by Draco856</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/2683/?" target="_blank">Simple Intersection</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Personal Radio STANDALONE by junior99au</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8676/?" target="_blank">Personal Radio STANDALONE</a>
