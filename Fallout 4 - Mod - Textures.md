@@ -66,6 +66,12 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8622/?" target="_blank">P
 
 -----------
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>All Weapons HD (A.W.H.D.) by bLaCkShAd0w</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon  octicon-link"></span></a>All Weapons HD (A.W.H.D.) by bLaCkShAd0w</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8556/?" target="_blank">All Weapons HD (A.W.H.D.)</a>
+
+----------- M9 Standalone Pistol New Grips - M9 Classic and Premium Wood by Sam Fisher
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>M9  Pistol by Sam Fisher</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8792/?" target="_blank">M9 Standalone Pistol New Grips - M9 Classic and Premium Wood</a>
