@@ -42,6 +42,12 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/7169/?" target="_blank">C
 
 -----------
 
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Satellite World Map by FloorBelow</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8989/?" target="_blank">Satellite World Map</a>
+
+-----------
+
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Black Fusion Core by XricsX</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/6498/?" target="_blank">Black Fusion Core</a>
