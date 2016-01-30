@@ -27,3 +27,9 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/2139/?" target="_blank">F
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Interiors Enhanced by fadingsignal</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8768/?" target="_blank">Interiors Enhanced - Darker Ambient Light and Fog</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon  octicon-link"></span></a>New Fallout Environment by Ciprriano</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/9204/?" target="_blank">New Fallout Environment</a>
