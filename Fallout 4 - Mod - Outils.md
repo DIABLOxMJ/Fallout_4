@@ -99,3 +99,15 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/2683/?" target="_blank">S
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Personal Radio STANDALONE by junior99au</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8676/?" target="_blank">Personal Radio STANDALONE</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>AS Institute Workstations by Doobot</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/9138/?" target="_blank">AS Institute Workstations</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Stealth Boy Toggle Key by LinuX123</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/9145/?" target="_blank">Stealth Boy Toggle Key</a>
