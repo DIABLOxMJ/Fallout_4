@@ -114,6 +114,6 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/9145/?" target="_blank">S
 
 -----------
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Rebuilt Croup Manor by rdunlap</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Rebuilt Series Prewar Houses by rdunlap</h1>
 
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8333/?" target="_blank">Rebuilt Croup Manor</a>
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/9285/?" target="_blank">Rebuilt Series Prewar Houses</a>
