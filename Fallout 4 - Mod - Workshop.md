@@ -142,3 +142,9 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8610/?" target="_blank">R
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Snap'n Build - Roofs by ad3d0</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8833/?" target="_blank">Snap'n Build - Roofs</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Scrappable Commonwealth by Lapdragon</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/6401/?" target="_blank">Scrappable Commonwealth</a>
