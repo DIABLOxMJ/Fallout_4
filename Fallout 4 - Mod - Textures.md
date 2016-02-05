@@ -80,4 +80,10 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8556/?" target="_blank">A
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>M9  Pistol by Sam Fisher</h1>
 
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8792/?" target="_blank">M9 Standalone Pistol New Grips - M9 Classic and Premium Wood</a>
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8792/?" target="_blank">M9 Standalone Pistol New Grips - M9 Classic</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>Power HD T-45 Power raider Retextures by Avallonkao</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/9523/?" target="_blank">Power HD T-45 Power raider Retextures</a>
