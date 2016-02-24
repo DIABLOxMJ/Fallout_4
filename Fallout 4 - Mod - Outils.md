@@ -120,6 +120,6 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/9285/?" target="_blank">R
 
 -----------
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Jamaica Plains Expansion by Jkoroll14</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Settlement expansion all in one v2 by Jkoroll14</h1>
 
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/9779/?" target="_blank">Jamaica Plains Expansion</a>
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/10226/?" target="_blank">Settlement expansion all in one v2</a>
