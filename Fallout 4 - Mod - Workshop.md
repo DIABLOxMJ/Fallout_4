@@ -148,3 +148,15 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8833/?" target="_blank">S
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Scrappable Commonwealth by Lapdragon</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/6401/?" target="_blank">Scrappable Commonwealth</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Build your own Vault by DarthWayne</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/10603/?" target="_blank">Build your own Vault</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Vault 98 - Welcome Home by Ryanc229</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/10641/?" target="_blank">Vault 98 - Welcome Homeh</a>
