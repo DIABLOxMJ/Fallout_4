@@ -90,6 +90,6 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/9523/?" target="_blank">P
 
 -----------
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>Colt M1911 - WIP by xTaicho</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>Union Jack by Bowser62</h1>
 
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/12577/?" target="_blank">Colt M1911 - WIP</a>
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/12610/?" target="_blank">Union Jack</a>
