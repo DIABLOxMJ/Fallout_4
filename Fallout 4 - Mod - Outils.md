@@ -123,3 +123,9 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/9285/?" target="_blank">R
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Settlement expansion all in one v2 by Jkoroll14</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/10226/?" target="_blank">Settlement expansion all in one v2</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>Colt M1911 - WIP by xTaicho</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/12577/?" target="_blank">Colt M1911 - WIP</a>
