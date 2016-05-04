@@ -129,3 +129,9 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/10226/?" target="_blank">
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>Colt M1911 - WIP by xTaicho</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/12577/?" target="_blank">Colt M1911 - WIP</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>PortableContainer by Edgard Agular</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/12941/?" target="_blank">PortableContainer</a>
