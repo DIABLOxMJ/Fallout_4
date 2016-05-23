@@ -135,3 +135,17 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/12577/?" target="_blank">
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>PortableContainer by Edgard Agular</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/12941/?" target="_blank">PortableContainer</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>Portable container - edited version by GTAFYFE</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/14011/?" target="_blank">Portable container - edited version</a>
+
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>Spawn Items by WarezLine</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/14053/?" target="_blank">Spawn Itemsr</a>
+
