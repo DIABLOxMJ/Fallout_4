@@ -18,9 +18,9 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/2459/?" target="_blank">P
 
 -----------
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Black Pip Boy by Malcroix</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Black Pip Boy by JasonK94</h1>
 
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/268/?" target="_blank">Black Pip Boy</a>
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/445/?" target="_blank">Black Pip Boy</a>
 
 -----------
 
