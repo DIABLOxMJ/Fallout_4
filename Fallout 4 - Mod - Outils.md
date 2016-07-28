@@ -142,10 +142,14 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/12941/?" target="_blank">
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/14011/?" target="_blank">Portable container - edited version</a>
 
-
 -----------
 
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>Spawn Items by WarezLine</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/14053/?" target="_blank">Spawn Itemsr</a>
 
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>Higher Settlement Budget by GrimTech - PatrickJr</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/818/?" target="_blank">Higher Settlement Budget</a>
