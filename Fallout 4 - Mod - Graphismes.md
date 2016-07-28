@@ -33,3 +33,9 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8768/?" target="_blank">I
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon  octicon-link"></span></a>New Fallout Environment by Ciprriano</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/9204/?" target="_blank">New Fallout Environment</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon  octicon-link"></span></a>DEF_UI by Neanka and Valdacil</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/10654/?" target="_blank">DEF_UI</a>
