@@ -48,7 +48,7 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/1822/?" target="_blank">F
 
 -----------
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon  octicon-link"></span></a>Glorious Female Nude Mod (CBBE Compatible) by BlackFireBR</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon  octicon-link"></span></a>Glorious Female Nude Mod by BlackFireBR</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/476/?" target="_blank">Glorious Female Nude Mod (CBBE Compatible)</a>
 
