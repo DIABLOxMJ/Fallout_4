@@ -166,3 +166,9 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/11505/?" target="_blank">
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Vault 119 - Vault-Tec Workshop by Ryanc229 </h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/17006/?" target="_blank">Vault 119 - Vault-Tec Workshop</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>Better Generators by Expired6978</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/1029/?" target="_blank">Better Generators</a>
