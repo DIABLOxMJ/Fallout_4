@@ -156,12 +156,6 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/818/?" target="_blank">Hi
 
 -----------
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>Better Generators by Expired6978</h1>
-
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/1029/?" target="_blank">Better Generators</a>
-
------------
-
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>Movable Power Armor by Kentington</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/818/?" target="_blank">Movable Power Armor</a>
