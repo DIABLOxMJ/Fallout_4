@@ -18,6 +18,12 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/11337/?" target="_blank">
 
 -----------
 
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Portable Workshop by Luis Guerreiro</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/11143/?" target="_blank">Portable Workshop</a>
+
+-----------
+
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Lowered Weapons by lesma666</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/522/?" target="_blank">Lowered Weapons</a>
