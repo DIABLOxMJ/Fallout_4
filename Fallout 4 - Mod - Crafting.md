@@ -24,9 +24,9 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/2451/?" target="_blank">C
 
 -----------
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Fusion Core Crafting by Xylozi</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Craftable Fusion Core by Travis Bowen_ Nutzyskwerl</h1>
 
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/2288/?" target="_blank">Fusion Core Crafting</a>
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/12742/?" target="_blank">Craftable Fusion Core</a>
 
 -----------
 
