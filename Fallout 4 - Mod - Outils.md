@@ -12,6 +12,12 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/100/?" target="_blank">No
 
 -----------
 
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>AZERTY Keyboard Control Map by Ceane</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/2424/?" target="_blank">AZERTY Keyboard Control Map</a>
+
+-----------
+
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Portable Workshop (Enhanced) by Luis Guerreiro</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/11337/?" target="_blank">Portable Workshop (Enhanced)</a>
@@ -171,5 +177,3 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/818/?" target="_blank">Hi
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon   octicon-link"></span></a>Movable Power Armor by Kentington</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/818/?" target="_blank">Movable Power Armor</a>
-
-http://www.nexusmods.com/fallout4/mods/5393/?
