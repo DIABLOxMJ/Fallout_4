@@ -73,51 +73,9 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/1062/?" target="_blank">S
 
 -----------
 
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Craftable Animated Bridges by DDProductions83</h1>
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Tinas Cookiepocolypse by DDProductions83</h1>
 
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/6343/?" target="_blank">Craftable Animated Bridges</a>
-
------------
-
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Craftable Elevators by DDProductions83</h1>
-
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/6053/?" target="_blank">Craftable Elevators</a>
-
------------
-
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Craftable Doorway Wall by DDProductions83</h1>
-
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/6637/?" target="_blank">Craftable Interior Shack Doorway Wall</a>
-
------------
-
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Stackable Foundations by DDProductions83</h1>
-
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/6362/?" target="_blank">Stackable Concrete Foundations</a>
-
------------
-
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Craftable Glass Stuffs by DDProductions83</h1>
-
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/7790/?" target="_blank">Craftable Glass Stuffs</a>
-
------------
-
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Craftable Floor Supports by DDProductions83</h1>
-
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/7784/?" target="_blank">Craftable Floor Supports</a>
-
------------
-
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Craftable Foundation Pieces by DDProductions83</h1>
-
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/7780/?" target="_blank">1x1 Craftable Foundation Pieces</a>
-
------------
-
-<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Craftable Solar Panels by DDProductions83</h1>
-
-Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8172/?" target="_blank">Craftable Solar Panels</a>
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/15842/?" target="_blank">Tinas Cookiepocolypse</a>
 
 -----------
 
