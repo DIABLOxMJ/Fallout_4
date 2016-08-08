@@ -24,6 +24,12 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/2424/?" target="_blank">A
 
 -----------
 
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Place Everywhere by TheLich/h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/9424/?" target="_blank">Place Everywhere</a>
+
+-----------
+
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Portable Workshop (Enhanced) by Luis Guerreiro</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/11337/?" target="_blank">Portable Workshop (Enhanced)</a>
