@@ -12,6 +12,36 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/4598/?" target="_blank">U
 
 -----------
 
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>TARDIS by ShatteredSteel</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/18735/?" target="_blank">TARDIS</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Sonic Screwdriver by JesterDoobie</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/18018/?" target="_blank">Sonic Screwdriver</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Bullet Time - Slow Time by registrator2000</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/9325/?" target="_blank">Bullet Time - Slow Time</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Tank Player Home by The Wandering Ranger</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/18803/?" target="_blank">Tank Player Home</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Crafting Time Scale Modifier by bagle</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/18772/?" target="_blank">Crafting Time Scale Modifier</a>
+
+-----------
+
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>No more cash register sound by LiquidBronze</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/100/?" target="_blank">No more cash register sound when XP gain</a>
