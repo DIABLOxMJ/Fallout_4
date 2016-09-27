@@ -60,6 +60,24 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/2424/?" target="_blank">A
 
 -----------
 
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Visible Weapons - 3rd Person Holster by registrator2000</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/10317/?" target="_blank">Visible Weapons - 3rd Person Holster</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Better Wait Menu by registrator2000</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/9437/?" target="_blank">Better Wait Menu</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>DialogueMenu Enhanced by registrator2000</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/14617/?" target="_blank">DialogueMenu Enhanced</a>
+
+-----------
+
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Place Everywhere by TheLich</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/9424/?" target="_blank">Place Everywhere</a>
