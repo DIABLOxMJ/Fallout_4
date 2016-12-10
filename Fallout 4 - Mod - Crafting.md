@@ -33,3 +33,9 @@ Nexus: <a href="http://www.nexusmods.com/fallout4/mods/12742/?" target="_blank">
 <h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Shipments of The Commonwealth by Lanius</h1>
 
 Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8604/?" target="_blank">Shipments of The Commonwealth (SOTC)</a>
+
+-----------
+
+<h1> <a name="user-content-html" class="anchor" href="#DIABLOxMJ" aria-hidden="true"><span class="octicon octicon-link"></span></a>Extended weapon mods by Akhanami</h1>
+
+Nexus: <a href="http://www.nexusmods.com/fallout4/mods/8276/?" target="_blank">Extended weapon mods</a>
